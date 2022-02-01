@@ -1,0 +1,17 @@
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\2048GameWinForms.exe
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\2048GameWinForms.deps.json
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\2048GameWinForms.runtimeconfig.json
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\2048GameWinForms.dll
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\ref\2048GameWinForms.dll
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\bin\Debug\net6.0-windows\2048GameWinForms.pdb
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.csproj.AssemblyReference.cache
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\_2048GameWinForms.GamePanel.resources
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.csproj.GenerateResource.cache
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.AssemblyInfoInputs.cache
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.AssemblyInfo.cs
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.dll
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\ref\2048GameWinForms.dll
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.pdb
+C:\Users\Jonny\source\repos\2048GameWinForms\2048GameWinForms\obj\Debug\net6.0-windows\2048GameWinForms.genruntimeconfig.cache
